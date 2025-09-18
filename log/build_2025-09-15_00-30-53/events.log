@@ -1,5 +1,0 @@
-[0.000000] (-) TimerEvent: {}
-[0.000082] (-) JobUnselected: {'identifier': 'ydlidar_ros2_driver'}
-[0.000096] (-) JobUnselected: {'identifier': 'ydlidar_sdk'}
-[0.000105] (-) JobUnselected: {'identifier': 'ydlidar_x3_ros'}
-[0.000112] (-) EventReactorShutdown: {}

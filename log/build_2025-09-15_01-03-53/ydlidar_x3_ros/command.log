@@ -1,6 +1,0 @@
-Invoking command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_x3_ros': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ankledogg/ydlidar_ros2_ws/install/ydlidar_x3_ros
-Invoked command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_x3_ros' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ankledogg/ydlidar_ros2_ws/install/ydlidar_x3_ros
-Invoking command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_x3_ros': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ankledogg/ydlidar_ros2_ws/build/ydlidar_x3_ros -- -j12 -l12
-Invoked command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_x3_ros' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ankledogg/ydlidar_ros2_ws/build/ydlidar_x3_ros -- -j12 -l12
-Invoking command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_x3_ros': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ankledogg/ydlidar_ros2_ws/build/ydlidar_x3_ros
-Invoked command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_x3_ros' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ankledogg/ydlidar_ros2_ws/build/ydlidar_x3_ros
