@@ -1,0 +1,67 @@
+[0.006s] Invoking command in '/home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/build/ydlidar_x3_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros
+[0.205s] -- The C compiler identification is GNU 9.4.0
+[0.340s] -- The CXX compiler identification is GNU 9.4.0
+[0.343s] -- Check for working C compiler: /usr/bin/cc
+[0.383s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.384s] -- Detecting C compiler ABI info
+[0.424s] -- Detecting C compiler ABI info - done
+[0.431s] -- Detecting C compile features
+[0.431s] -- Detecting C compile features - done
+[0.433s] -- Check for working CXX compiler: /usr/bin/c++
+[0.478s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.479s] -- Detecting CXX compiler ABI info
+[0.523s] -- Detecting CXX compiler ABI info - done
+[0.530s] -- Detecting CXX compile features
+[0.530s] -- Detecting CXX compile features - done
+[0.533s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.550s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.550s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.641s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.667s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.706s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.712s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.759s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.776s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.828s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.872s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.874s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.875s] -- Looking for pthread.h
+[0.923s] -- Looking for pthread.h - found
+[0.923s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.968s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[0.969s] -- Looking for pthread_create in pthreads
+[1.003s] -- Looking for pthread_create in pthreads - not found
+[1.003s] -- Looking for pthread_create in pthread
+[1.044s] -- Looking for pthread_create in pthread - found
+[1.044s] -- Found Threads: TRUE  
+[1.147s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[1.258s] -- Configuring done
+[1.263s] -- Generating done
+[1.265s] -- Build files have been written to: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/build/ydlidar_x3_ros
+[1.271s] Invoked command in '/home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/build/ydlidar_x3_ros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros
+[1.271s] Invoking command in '/home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/build/ydlidar_x3_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/build/ydlidar_x3_ros -- -j12 -l12
+[1.295s] [35m[1mScanning dependencies of target ydlidar_x3_node[0m
+[1.403s] [ 50%] [32mBuilding CXX object CMakeFiles/ydlidar_x3_node.dir/src/ydlidar_x3_node.cpp.o[0m
+[3.112s] [100%] [32m[1mLinking CXX executable ydlidar_x3_node[0m
+[3.250s] [100%] Built target ydlidar_x3_node
+[3.257s] Invoked command in '/home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/build/ydlidar_x3_ros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/build/ydlidar_x3_ros -- -j12 -l12
+[3.264s] Invoking command in '/home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/build/ydlidar_x3_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/build/ydlidar_x3_ros
+[3.268s] -- Install configuration: ""
+[3.268s] -- Execute custom install script
+[3.269s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/lib/ydlidar_x3_ros/ydlidar_x3_node
+[3.274s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ament_index/resource_index/package_run_dependencies/ydlidar_x3_ros
+[3.279s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ament_index/resource_index/parent_prefix_path/ydlidar_x3_ros
+[3.283s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/environment/ament_prefix_path.sh
+[3.288s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/environment/ament_prefix_path.dsv
+[3.293s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/environment/path.sh
+[3.297s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/environment/path.dsv
+[3.302s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/local_setup.bash
+[3.307s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/local_setup.sh
+[3.311s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/local_setup.zsh
+[3.316s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/local_setup.dsv
+[3.321s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/package.dsv
+[3.325s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ament_index/resource_index/packages/ydlidar_x3_ros
+[3.330s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/cmake/ydlidar_x3_rosConfig.cmake
+[3.335s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/cmake/ydlidar_x3_rosConfig-version.cmake
+[3.339s] -- Symlinking: /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/install/ydlidar_x3_ros/share/ydlidar_x3_ros/package.xml
+[3.346s] Invoked command in '/home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/build/ydlidar_x3_ros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/ankledogg/ydlidar_ros2_ws/src/ydlidar_x3_ros/build/ydlidar_x3_ros

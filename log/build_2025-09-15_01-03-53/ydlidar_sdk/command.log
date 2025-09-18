@@ -1,0 +1,6 @@
+Invoking command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_sdk': /usr/bin/cmake /home/ankledogg/ydlidar_ros2_ws/src/YDLidar-SDK -DCMAKE_INSTALL_PREFIX=/home/ankledogg/ydlidar_ros2_ws/install/ydlidar_sdk
+Invoked command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_sdk' returned '0': /usr/bin/cmake /home/ankledogg/ydlidar_ros2_ws/src/YDLidar-SDK -DCMAKE_INSTALL_PREFIX=/home/ankledogg/ydlidar_ros2_ws/install/ydlidar_sdk
+Invoking command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_sdk': /usr/bin/cmake --build /home/ankledogg/ydlidar_ros2_ws/build/ydlidar_sdk -- -j12 -l12
+Invoked command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_sdk' returned '0': /usr/bin/cmake --build /home/ankledogg/ydlidar_ros2_ws/build/ydlidar_sdk -- -j12 -l12
+Invoking command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_sdk': /usr/bin/cmake --install /home/ankledogg/ydlidar_ros2_ws/build/ydlidar_sdk
+Invoked command in '/home/ankledogg/ydlidar_ros2_ws/build/ydlidar_sdk' returned '0': /usr/bin/cmake --install /home/ankledogg/ydlidar_ros2_ws/build/ydlidar_sdk

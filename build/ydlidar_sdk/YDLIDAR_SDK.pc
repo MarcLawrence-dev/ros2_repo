@@ -1,0 +1,11 @@
+prefix=/home/ankledogg/ydlidar_ros2_ws/install/ydlidar_sdk
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: YDLIDAR_SDK
+Description: 
+Version: 1.2.18
+Cflags:   -I/home/ankledogg/ydlidar_ros2_ws/install/ydlidar_sdk/include/src -I/home/ankledogg/ydlidar_ros2_ws/install/ydlidar_sdk/include
+Libs: -L${libdir}  -lpthread -lrt -lydlidar_sdk
+
